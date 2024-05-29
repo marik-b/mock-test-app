@@ -1,0 +1,13 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+.custom-img{
+    background-image: url('../../public/pictures/Shopping.jpeg');
+    width: auto;
+    height: auto;
+}
+.custom-img1{
+    background-image: url('../../public/pictures/Shopping.jpg');
+    width: auto;
+    height: auto;
+}
